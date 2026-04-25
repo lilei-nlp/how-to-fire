@@ -50,7 +50,7 @@ export default defineConfig({
           { text: '公募基金与 A 股的浮浮沉沉', link: '/guide/03-investment-framework#公募基金与-a-股的浮浮沉沉' },
           { text: '找到自己的能力圈', link: '/guide/03-investment-framework#找到自己的能力圈' },
           { text: '推荐一条学习路径', link: '/guide/03-investment-framework#如果让我给刚上大学的自己推荐一条学习路径' },
-          { text: '我的资产配置框架', link: '/guide/03-investment-framework#我的资产配置框架' },
+          { text: '资产配置：投稳/投增/投变', link: '/guide/03-investment-framework#资产配置-把不同钱放进不同的账户' },
           { text: '风险管理', link: '/guide/03-investment-framework#风险管理' },
           { text: '复利的力量', link: '/guide/03-investment-framework#复利的力量' },
         ],
