@@ -8,7 +8,7 @@
 
 1. **[FIRE 的数学定义](/guide/01-fire-definition)** —— 什么是 FIRE？为什么 1000 万人民币是合理目标？
 2. **[积累本金](/guide/02-accumulate-capital)** —— AI PhD 在大模型时代的黄金变现期
-3. **[培养投资范式](/guide/03-investment-framework)** —— 从零建立你的投资体系
+3. **[构建自己的投资框架](/guide/03-investment-framework)** —— 从零建立你的投资体系
 4. **[我的投资实践](/guide/04-my-strategies)** —— 可转债轮动 / 美股 / 港股打新
 5. **[投资心理学](/guide/05-psychology)** —— FOMO、恐慌与 PhD 思维的陷阱
 

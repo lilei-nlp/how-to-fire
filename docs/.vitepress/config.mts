@@ -26,7 +26,7 @@ export default defineConfig({
         link: '/guide/02-accumulate-capital',
       },
       {
-        text: '3. 培养投资范式',
+        text: '3. 构建自己的投资框架',
         link: '/guide/03-investment-framework',
       },
       {
