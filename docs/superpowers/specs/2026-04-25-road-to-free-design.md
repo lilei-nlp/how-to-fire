@@ -52,13 +52,13 @@
 - 左侧大纲导航，匹配文档/大纲式阅读
 - 内置本地搜索，支持中文分词
 - Markdown 即写即用
-- 通过 `base: '/road-to-free/'` 原生支持子路径部署
+- 通过 `base: '/how-to-fire/'` 原生支持子路径部署
 - GitHub Actions 自动构建部署到 GitHub Pages
 
 ## 项目结构
 
 ```
-ai-phd-road-to-fire/
+how-to-fire/
 ├── docs/                    # VitePress 内容根目录
 │   ├── index.md             # 首页 = 前言
 │   ├── guide/               # 核心章节
@@ -81,7 +81,7 @@ ai-phd-road-to-fire/
 
 ## 部署
 
-- **地址**: `https://lilei-nlp.github.io/road-to-free/`
+- **地址**: `https://lilei-nlp.github.io/how-to-fire/`
 - **分支**: `gh-pages` (GitHub Actions 自动推送构建产物)
 - **触发**: `main` 分支 push 自动触发构建
 - **耗时**: 约 2 分钟完成部署
@@ -92,7 +92,7 @@ ai-phd-road-to-fire/
 |------|--------|
 | 新建章节 | 在 `docs/guide/` 下新建 `XX-title.md`，在 `.vitepress/config.mts` 的 sidebar 数组中加一行配置 |
 | 追加内容 | 直接在已有 `.md` 文件中尾部追加，建议文末标注 `> 更新于 YYYY-MM-DD` |
-| 本地预览 | 运行 `npm run docs:dev`，浏览器打开 `http://localhost:5173/road-to-free/`，修改 Markdown 后页面自动热更新 |
+| 本地预览 | 运行 `npm run docs:dev`，浏览器打开 `http://localhost:5173/how-to-fire/`，修改 Markdown 后页面自动热更新 |
 | 发布上线 | `git add . && git commit -m "update: 描述" && git push`，2分钟后线上生效 |
 
 ### 新增章节示例
