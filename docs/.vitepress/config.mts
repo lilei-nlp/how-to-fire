@@ -95,7 +95,6 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '推荐书单', link: '/appendix/reading-list' },
-          { text: '数据源与工具链', link: '/appendix/tools' },
           { text: 'FAQ', link: '/appendix/faq' },
         ],
       },
